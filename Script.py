@@ -2,11 +2,12 @@ import json
 import sys
 import xml.dom.minidom
 
-# Open XML domcument using minidom parser
+# Open XML document using minidom parser
 
 # inFile = sys.argv[1]
 inFile = "seatmap1.xml"
 xmlFile = xml.dom.minidom.parse(inFile)
+
 
 def set_amount(element_to_analyze, element_to_change):
     if element_to_analyze.getAttribute('AvailableInd') == 'true':
