@@ -39,21 +39,19 @@ if xmlFile.getElementsByTagName('Document').length == 0:
         cabin = cabin_class.getElementsByTagName('ns:RowInfo')
         cabin_type = cabin[0].getAttribute('CabinType')
         for row_group in cabin:
-            row_object = {}  # NS ROW INFO
+            row_object = {}
             seat_group = row_group.getElementsByTagName('ns:SeatInfo')
             for seat in seat_group:
-                seat_details = {}
                 details = seat.getElementsByTagName('ns:Summary')[0]
                 column = details.getAttribute('SeatNumber')[-1]
-                print column
-                row_object[column] = {'seat': seat.getElementsByTagName('ns:'),
-                                      'seat_id': details.getAttribute('SeatNumber'),
-                                      'cabin_class': cabin_type,
-                                      'availability': str_to_bool(details.getAttribute('AvailableInd')),
-                                      'seat_price': set_amount(details)}
-                row_object[details.getAttribute('SeatNumber')[-1]] = seat_details
-            cabin_object[row_group.getAttribute('RowNumber')] = row_object
-    flight_data['Rows'] = cabin_object
+                seat_object = {'seat': "Seat",
+                               'seat_id': details.getAttribute('SeatNumber'),
+                               'cabin_class': cabin_type,
+                               'availability': str_to_bool(details.getAttribute('AvailableInd')),
+                               'seat_price': set_amount(details)}
+                row_object[column] = dict(sorted(seat_object.items()))
+            cabin_object[int(row_group.getAttribute('RowNumber'))] = dict(sorted(row_object.items()))
+    flight_data['Rows'] = dict(sorted(cabin_object.items()))
     with open(inFile + '_parsed.json', 'w') as outfile:
         outfile.write(json.dumps(flight_data))
 else:
@@ -84,4 +82,4 @@ else:
     flight_data = {"Rows": sorted_rows}
 
     with open(inFile + '_parsed.json', 'w') as outfile:
-        outfile.write(json.dumps(total))
+        outfile.write(json.dumps(flight_data))

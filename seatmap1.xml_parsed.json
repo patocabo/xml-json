@@ -1,0 +1,1256 @@
+{
+  "DepartureAirport": "LAS",
+  "DepartureDateTime": "2020-11-22T15:30:00",
+  "Rows": {
+    "1": {
+      "A": {
+        "seat_id": "1A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "B": {
+        "seat_id": "1B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "E": {
+        "seat_id": "1E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "F": {
+        "seat_id": "1F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      }
+    },
+    "2": {
+      "A": {
+        "seat_id": "2A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "B": {
+        "seat_id": "2B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "E": {
+        "seat_id": "2E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      },
+      "F": {
+        "seat_id": "2F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "First"
+      }
+    },
+    "7": {
+      "A": {
+        "seat_id": "7A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "7C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "7B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "7E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "7D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "7F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "8": {
+      "A": {
+        "seat_id": "8A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "8C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "8B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "8E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "8D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "8F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "9": {
+      "A": {
+        "seat_id": "9A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "9C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "9B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "9E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "9D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "9F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "10": {
+      "A": {
+        "seat_id": "10A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "10C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "10B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "10E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "10D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "10F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "11": {
+      "A": {
+        "seat_id": "11A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "11C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "11B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "11E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "11D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "11F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "12": {
+      "A": {
+        "seat_id": "12A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "12C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "12B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "12E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "12D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "12F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "14": {
+      "A": {
+        "seat_id": "14A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "14C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "14B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2600",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "14E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2600",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "14D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "14F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "15": {
+      "A": {
+        "seat_id": "15A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "15C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "15B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2600",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "15E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2600",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "15D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "15F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "20": {
+      "A": {
+        "seat_id": "20A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "20C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "20B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "20E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "20D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "20F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "21": {
+      "A": {
+        "seat_id": "21A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "21C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "21B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "21E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "21D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "21F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    },
+    "22": {
+      "A": {
+        "seat_id": "22A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "22C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "22B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "22E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "22D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "22F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "23": {
+      "A": {
+        "seat_id": "23A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "23C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "23B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "23E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "23D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "23F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "24": {
+      "A": {
+        "seat_id": "24A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "24C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "24B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "24E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "24D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "24F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "25": {
+      "A": {
+        "seat_id": "25A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "25C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "25B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "25E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "25D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "25F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "26": {
+      "A": {
+        "seat_id": "26A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "26C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "26B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "26E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "26D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "4200",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "26F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "2700",
+        "cabin_class": "Economy"
+      }
+    },
+    "27": {
+      "A": {
+        "seat_id": "27A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "27C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "27B",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "27E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "27D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "27F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "28": {
+      "A": {
+        "seat_id": "28A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "28C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "28B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "28E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "28D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "28F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "29": {
+      "A": {
+        "seat_id": "29A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "29C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "29B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "29E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "29D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "29F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "30": {
+      "A": {
+        "seat_id": "30A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "30C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "30B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "30E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "30D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "30F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "31": {
+      "A": {
+        "seat_id": "31A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "31C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "31B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "31E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "31D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "31F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "32": {
+      "A": {
+        "seat_id": "32A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "32C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "32B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "32E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "32D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "32F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "34": {
+      "A": {
+        "seat_id": "34A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "34C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "34B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "34E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "34D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "34F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "35": {
+      "A": {
+        "seat_id": "35A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "35C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "35B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "35E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "35D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "35F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "36": {
+      "A": {
+        "seat_id": "36A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "36C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "36B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "36E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "36D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "36F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "37": {
+      "A": {
+        "seat_id": "37A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "37C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "37B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "37E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "37D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "37F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "38": {
+      "A": {
+        "seat_id": "38A",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "38C",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "38B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "38E",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "38D",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1800",
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "38F",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1300",
+        "cabin_class": "Economy"
+      }
+    },
+    "39": {
+      "A": {
+        "seat_id": "39A",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "C": {
+        "seat_id": "39C",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "B": {
+        "seat_id": "39B",
+        "seat": "Seat",
+        "availability": true,
+        "seat_price": "1200",
+        "cabin_class": "Economy"
+      },
+      "E": {
+        "seat_id": "39E",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "D": {
+        "seat_id": "39D",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      },
+      "F": {
+        "seat_id": "39F",
+        "seat": "Seat",
+        "availability": false,
+        "seat_price": null,
+        "cabin_class": "Economy"
+      }
+    }
+  },
+  "FlightNumber": "1179",
+  "ArrivalAirport": "IAH"
+}
