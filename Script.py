@@ -9,10 +9,12 @@ inFile = "seatmap1.xml"
 xmlFile = xml.dom.minidom.parse(inFile)
 
 
-def set_amount(element_to_analyze, element_to_change):
+def set_amount(element_to_analyze):
     if element_to_analyze.getAttribute('AvailableInd') == 'true':
-        element_to_change['seat_price'] = seat.getElementsByTagName('ns:Service')[0].getElementsByTagName(
+        return seat.getElementsByTagName('ns:Service')[0].getElementsByTagName(
             'ns:Fee')[0].getAttribute('Amount')
+    else:
+        return None
 
 
 def str_to_bool(s):
@@ -21,8 +23,6 @@ def str_to_bool(s):
     else:
         return False
 
-
-flight_data = {}
 
 if xmlFile.getElementsByTagName('Document').length == 0:
     plane_data = xmlFile.getElementsByTagName('ns:FlightSegmentInfo')[0]
@@ -44,12 +44,13 @@ if xmlFile.getElementsByTagName('Document').length == 0:
             for seat in seat_group:
                 seat_details = {}
                 details = seat.getElementsByTagName('ns:Summary')[0]
-                seat_details['seat'] = seat.getElementsByTagName('ns:')
-                seat_details['seat_id'] = details.getAttribute('SeatNumber')
-                seat_details['cabin_class'] = cabin_type
-                seat_details['availability'] = str_to_bool(details.getAttribute('AvailableInd'))
-                print(details)
-                set_amount(details, seat_details)
+                column = details.getAttribute('SeatNumber')[-1]
+                print column
+                row_object[column] = {'seat': seat.getElementsByTagName('ns:'),
+                                      'seat_id': details.getAttribute('SeatNumber'),
+                                      'cabin_class': cabin_type,
+                                      'availability': str_to_bool(details.getAttribute('AvailableInd')),
+                                      'seat_price': set_amount(details)}
                 row_object[details.getAttribute('SeatNumber')[-1]] = seat_details
             cabin_object[row_group.getAttribute('RowNumber')] = row_object
     flight_data['Rows'] = cabin_object
@@ -79,8 +80,8 @@ else:
                 row_object[individual_seat.getElementsByTagName('Column')[0].firstChild.nodeValue] = seat
             plane_object[int(individual_row.getElementsByTagName('Number')[0].firstChild.nodeValue)] = row_object
             items = plane_object.items()
-    arreglado = dict(sorted(items))
-    total = {"Rows": arreglado}
+    sorted_rows = dict(sorted(items))
+    flight_data = {"Rows": sorted_rows}
 
     with open(inFile + '_parsed.json', 'w') as outfile:
         outfile.write(json.dumps(total))
